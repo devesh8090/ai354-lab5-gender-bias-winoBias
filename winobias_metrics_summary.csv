@@ -1,0 +1,4 @@
+Metric,BERT (bert-base-uncased),GPT-2
+Accuracy (Overall),0.5088,0.5000
+Gender Accuracy Gap  (male acc − female acc),0.6995,0.7071
+Stereotype Preference Score  P(male | female-stereo role),0.7207,0.7432
